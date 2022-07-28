@@ -1,0 +1,43 @@
+body{
+	background: url(ppp.jpg);
+	background-size: 1600px;
+}
+
+h1{
+	text-align: center;
+}
+p{
+	font-family: Cambria; 
+	font-size: 22px;
+	color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 60;
+  padding: 10;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 100px;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+</style>
+</head>
+<body>

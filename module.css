@@ -1,0 +1,10 @@
+body {
+	background-color: #b8c6db;
+}
+button {
+	height: 400px; 
+	width: 300px;
+	text-decoration: none;
+	background-color: #dff;
+	margin: 30px;
+}
